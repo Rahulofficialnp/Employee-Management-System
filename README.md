@@ -23,7 +23,7 @@ MongoDB
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/Rahulofficialnp/employee-management-system.git
 cd employee-management-system
 Backend Setup
 Navigate to the backend directory:
